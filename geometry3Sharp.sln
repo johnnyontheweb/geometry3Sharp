@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.37216.2 d17.14
+VisualStudioVersion = 17.14.37216.2
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "geometry3Sharp", "geometry3Sharp.csproj", "{0C518DDA-28FE-44CA-9AB0-F9773974F13A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "geometry3Sharp_netstandard", "geometry3Sharp_netstandard.csproj", "{A894B46A-BCD5-62DE-CE9C-913221EF7B8C}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "testApp", "testApp\testApp.vbproj", "{2FE0495F-1FFD-4768-BDA5-59087007C253}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A894B46A-BCD5-62DE-CE9C-913221EF7B8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A894B46A-BCD5-62DE-CE9C-913221EF7B8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A894B46A-BCD5-62DE-CE9C-913221EF7B8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FE0495F-1FFD-4768-BDA5-59087007C253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FE0495F-1FFD-4768-BDA5-59087007C253}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FE0495F-1FFD-4768-BDA5-59087007C253}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FE0495F-1FFD-4768-BDA5-59087007C253}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
